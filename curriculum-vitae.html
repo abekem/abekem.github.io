@@ -1,32 +1,38 @@
+<!-- from https://qiita.com/amay077/items/704d48130e5cf17e8654 -->
 <!DOCTYPE html>
 <html lang="ja">
     <head>
-       <meta charset="UTF-8">
-       <link href="https://rawgithub.com/jasonm23/markdown-css-themes/gh-pages/markdown7.css" rel="stylesheet"></link>
-   </head>
-    <body>
-        <div id="container">
-        </div>
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.0.0-alpha1/jquery.min.js"></script>
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/marked/0.3.5/marked.min.js"></script>
+        <meta charset="utf-8">
+
+        <title>Markdown renderer</title>
+        <meta name="description" content="Markdown renderer">
+
+        <!-- bootstrap -->
+        <link rel="stylesheet" type="text/css" href="css/bootstrap.css" rel="stylesheet">
+        <link rel="stylesheet" type="text/css" href="css/bootstrap-responsive.css" rel="stylesheet">
+
+        <!-- js libraries -->
+        <script type="text/javascript" src="js/jquery-2.0.3.js"></script>
+        <script type="text/javascript" src="js/marked.js"></script>
         <script>
-var markdown = (function() {/*
+            $(document).ready(function(){
+                var target = $("#markdown_content");
 
-# First level header
+                $.ajax({
+                    url: target[0].attributes["src"].value,
+                }).success(function(data){
+                    target.append(marked(data));
+                }).error(function(data){
+                    target.append("This content failed to load.");
+                });
+            });
+        </script>
+    </head>
 
-## Second level header
-
-- あめんぼあかいな
-  - あいうえお
-- **うきも**に`こえび`もおよいでる
-
----
-
->かきのきくりのきかきくけこ
-
-*/}).toString().match(/\/\*([^]*)\*\//)[1];
-           var md = marked(markdown);
-           $("#container").append(md);
-       </script>
+    <body>
+        <!-- Content -->
+        <div class="container">
+            <div id="markdown_content" src="./Curriculum-Vitae.md"> </div>
+        </div>
     </body>
 </html>
