@@ -1,4 +1,4 @@
 # from http://yoshikyoto.github.io/text/git/gh_pages_md.html
-markdown: redcarpet
+markdown: CommonMark
 redcarpet:
   extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "strikethrough", "superscript"]
