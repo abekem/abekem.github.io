@@ -5,4 +5,4 @@ permalink: /about/resume/
 show_header: false
 ---
 
-Under Constructing...
+プライベートリポジトリで管理している。
