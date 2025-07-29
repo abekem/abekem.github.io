@@ -27,70 +27,70 @@ show_header: false
 
 資料：
 
-<!-- [2025-05-28 社内勉強会 SOLID原則ではじめるよりよい設計の第一歩 / The First Step to Better Software Design with SOLID Principles](https://speakerdeck.com/abekem/the-first-step-to-better-software-design-with-solid-principles) -->
+[2025-05-28 社内勉強会 SOLID原則ではじめるよりよい設計の第一歩 / The First Step to Better Software Design with SOLID Principles](https://speakerdeck.com/abekem/the-first-step-to-better-software-design-with-solid-principles)
 
-{%- include speakerdeck.html 
+<!-- {%- include speakerdeck.html 
     url="https://speakerdeck.com/player/0ad81becb03f4730aaf9f8fec48773f7"
-    title="2025-05-28 社内勉強会 SOLID原則ではじめるよりよい設計の第一歩 / The First Step to Better Software Design with SOLID Principles" -%}
+    title="2025-05-28 社内勉強会 SOLID原則ではじめるよりよい設計の第一歩 / The First Step to Better Software Design with SOLID Principles" -%} -->
 
 録画：
 
-<!-- [20250528 社内勉強会 SOLID原則ではじめるよりよい設計の第一歩](https://www.youtube.com/watch?v=-rs8P9Rlfiw) -->
+[20250528 社内勉強会 SOLID原則ではじめるよりよい設計の第一歩](https://www.youtube.com/watch?v=-rs8P9Rlfiw)
 
-{%- include youtube.html
+<!-- {%- include youtube.html
     url="https://www.youtube.com/embed/-rs8P9Rlfiw"
-    title="20250528 社内勉強会 SOLID原則ではじめるよりよい設計の第一歩" -%}
+    title="20250528 社内勉強会 SOLID原則ではじめるよりよい設計の第一歩" -%} -->
 
 # 2025/04/23 デザインパターン概論
 
 資料：
 
-<!-- [2025-04-23 社内勉強会 デザインパターン概論 / Overview of Design Patterns](https://speakerdeck.com/abekem/overview-of-design-patterns) -->
+[2025-04-23 社内勉強会 デザインパターン概論 / Overview of Design Patterns](https://speakerdeck.com/abekem/overview-of-design-patterns)
 
-{%- include speakerdeck.html 
+<!-- {%- include speakerdeck.html 
     url="https://speakerdeck.com/player/183bb643fd534a66b8fbffe97cc03684"
-    title="2025-04-23 社内勉強会 デザインパターン概論 / Overview of Design Patterns" -%}
+    title="2025-04-23 社内勉強会 デザインパターン概論 / Overview of Design Patterns" -%} -->
 
 録画：
 
-<!-- [20250423 社内勉強会 デザインパターン概論](https://www.youtube.com/watch?v=bQpsdSOqFAs) -->
+[20250423 社内勉強会 デザインパターン概論](https://www.youtube.com/watch?v=bQpsdSOqFAs)
 
-{%- include youtube.html
+<!-- {%- include youtube.html
     url="https://www.youtube.com/embed/bQpsdSOqFAs"
-    title="20250423 社内勉強会 デザインパターン概論" -%}
+    title="20250423 社内勉強会 デザインパターン概論" -%} -->
 
 # 2025/03/26 オブジェクト指向入門第二部　継承とポリモーフィズム
 
 資料：
 
-<!-- [2025-03-26 社内勉強会 オブジェクト指向入門 第二部 / Introduction to Object-Oriented Part2](https://speakerdeck.com/abekem/introduction-to-object-oriented-part2) -->
+[2025-03-26 社内勉強会 オブジェクト指向入門 第二部 / Introduction to Object-Oriented Part2](https://speakerdeck.com/abekem/introduction-to-object-oriented-part2)
 
-{%- include speakerdeck.html 
+<!-- {%- include speakerdeck.html 
     url="https://speakerdeck.com/player/2309f3c47a384b04bbbc18224e662a32"
-    title="2025-03-26 社内勉強会 オブジェクト指向入門 第二部 / Introduction to Object-Oriented Part2" -%}
+    title="2025-03-26 社内勉強会 オブジェクト指向入門 第二部 / Introduction to Object-Oriented Part2" -%} -->
 
 録画：
 
-<!-- [20250326 社内勉強会 オブジェクト指向入門 第二部](https://www.youtube.com/watch?v=cJwC3lMckEU) -->
+[20250326 社内勉強会 オブジェクト指向入門 第二部](https://www.youtube.com/watch?v=cJwC3lMckEU)
 
-{%- include youtube.html
+<!-- {%- include youtube.html
     url="https://www.youtube.com/embed/cJwC3lMckEU"
-    title="20250326 社内勉強会 オブジェクト指向入門 第二部" -%}
+    title="20250326 社内勉強会 オブジェクト指向入門 第二部" -%} -->
 
 # 2025/02/27 オブジェクト指向入門第一部　クラスを理解する
 
 資料：
 
-<!-- [2025-02-27 社内勉強会 オブジェクト指向入門 / Introduction to Object-Oriented](https://speakerdeck.com/abekem/2025-02-27-she-nei-mian-qiang-hui-obuziekutozhi-xiang-ru-men) -->
+[2025-02-27 社内勉強会 オブジェクト指向入門 / Introduction to Object-Oriented](https://speakerdeck.com/abekem/2025-02-27-she-nei-mian-qiang-hui-obuziekutozhi-xiang-ru-men)
 
-{%- include speakerdeck.html 
+<!-- {%- include speakerdeck.html 
     url="https://speakerdeck.com/player/e9586409fce44eae8fa3c260c1c0a531"
-    title="2025-02-27 社内勉強会 オブジェクト指向入門 / Introduction to Object-Oriented" -%}
+    title="2025-02-27 社内勉強会 オブジェクト指向入門 / Introduction to Object-Oriented" -%} -->
 
 録画：
 
-<!-- [20250227 社内勉強会 オブジェクト指向入門](https://www.youtube.com/watch?v=9Z358tjU6oc) -->
+[20250227 社内勉強会 オブジェクト指向入門](https://www.youtube.com/watch?v=9Z358tjU6oc)
 
-{%- include youtube.html
+<!-- {%- include youtube.html
     url="https://www.youtube.com/embed/9Z358tjU6oc"
-    title="20250227 社内勉強会 オブジェクト指向入門" -%}
+    title="20250227 社内勉強会 オブジェクト指向入門" -%} -->
