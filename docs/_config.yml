@@ -19,12 +19,12 @@
 # in the templates via {{ site.myvariable }}.
 
 title: ミニラの生態
-email: nek.7180@gmail.com
+email: work@abekem.dev
 description: >- # this means to ignore newlines until "baseurl:"
   abekem
 baseurl: "" # the subpath of your site, e.g. /blog
-domain: "abekem.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-url: "https://abekem.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+domain: "site.abekem.dev" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://site.abekem.dev" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: abekem_
 github_username:  abekem
 
