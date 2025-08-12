@@ -5,23 +5,41 @@ permalink: /workshop/
 show_header: false
 ---
 
+# 2025/08/06 Gitを知る頃
+
+資料：
+
+<!-- [2025-08-06 社内勉強会 Gitを知る頃 / When You First Know Git](https://speakerdeck.com/abekem/when-you-first-know-git) -->
+
+{%- include speakerdeck.html 
+    url="https://speakerdeck.com/player/ce7418d211064a6b84b6121fd2dba625"
+    title="2025-08-06 社内勉強会 Gitを知る頃 / When You First Know Git" -%}
+
+録画：
+
+<!-- [20250806 社内勉強会 Gitを知る頃](https://youtu.be/c0ZTfDRsuLg) -->
+
+{%- include youtube.html
+    url="https://www.youtube.com/embed/c0ZTfDRsuLg"
+    title="20250806 社内勉強会 Gitを知る頃" -%}
+
 # 2025/07/02 SQLに親しむ
 
 資料：
 
-<!-- [2025-07-02 社内勉強会 SQLに親しむ / Getting to Know SQL](https://speakerdeck.com/abekem/getting-to-know-sql) -->
+[2025-07-02 社内勉強会 SQLに親しむ / Getting to Know SQL](https://speakerdeck.com/abekem/getting-to-know-sql)
 
-{%- include speakerdeck.html 
+<!-- {%- include speakerdeck.html 
     url="https://speakerdeck.com/player/72c03b94880544ada49149437960aa55"
-    title="2025-07-02 社内勉強会 SQLに親しむ / Getting to Know SQL" -%}
+    title="2025-07-02 社内勉強会 SQLに親しむ / Getting to Know SQL" -%} -->
 
 録画：
 
-<!-- [20250702 社内勉強会 SQLに親しむ](https://youtu.be/dcXy9cAyRT0) -->
+[20250702 社内勉強会 SQLに親しむ](https://youtu.be/dcXy9cAyRT0)
 
-{%- include youtube.html
+<!-- {%- include youtube.html
     url="https://www.youtube.com/embed/dcXy9cAyRT0"
-    title="20250702 社内勉強会 SQLに親しむ" -%}
+    title="20250702 社内勉強会 SQLに親しむ" -%} -->
 
 # 2025/05/28 SOLID原則ではじめるよりよい設計の第一歩
 
