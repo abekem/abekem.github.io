@@ -23,6 +23,8 @@ show_header: false
     url="https://www.youtube.com/embed/c0ZTfDRsuLg"
     title="20250806 社内勉強会 Gitを知る頃" -%}
 
+[勉強会で使用したリポジトリ（と同じもの）](https://github.com/abekem/git-hands-on)
+
 # 2025/07/02 SQLに親しむ
 
 資料：
