@@ -1,11 +1,21 @@
-<div class="video-container">
-  <iframe 
-    class="speakerdeck-iframe"
-    frameborder="0"
-    src="{{ include.url }}"
-    title="{{ include.title | default: 'Speaker Deck Presentation' }}"
-    allowfullscreen="true"
-    style="border: 0px; background: padding-box padding-box rgba(0, 0, 0, 0.1); margin: 0px; padding: 0px; border-radius: 6px; box-shadow: rgba(0, 0, 0, 0.2) 0px 5px 40px; width: 100%; height: auto; aspect-ratio: 560 / 315;"
-    data-ratio="1.7777777777777777">
-  </iframe>
-</div>
+{% if include.current %}
+  <p> 資料： </p>
+  <div class="video-container">
+    <iframe 
+      class="speakerdeck-iframe"
+      frameborder="0"
+      src="{{ include.embed_url }}"
+      title="{{ include.title | default: 'Speaker Deck Presentation' }}"
+      allowfullscreen="true"
+      style="border: 0px; background: padding-box padding-box rgba(0, 0, 0, 0.1); margin: 0px; padding: 0px; border-radius: 6px; box-shadow: rgba(0, 0, 0, 0.2) 0px 5px 40px; width: 100%; height: auto; aspect-ratio: 560 / 315;"
+      data-ratio="1.7777777777777777">
+    </iframe>
+  </div>
+  <p></p>
+{% else %}
+  <p>
+    資料：
+    <img src="http://www.google.com/s2/favicons?domain=speakerdeck.com">
+    <a href="{{ include.url }}" target="_blank">{{ include.title | default: 'Speaker Deck Presentation' }}</a>
+  </p>
+{% endif %}
