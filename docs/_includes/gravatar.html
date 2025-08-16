@@ -1,0 +1,5 @@
+<div>
+  {% for avatar in site.data.avatars %}
+    <img src="{{ 'https://gravatar.com/userimage/' | append: avatar.id | append: '?size=200' }}" alt="{{ avatar.name }}" style="border-radius: 50%;">
+  {% endfor %}
+</div>
