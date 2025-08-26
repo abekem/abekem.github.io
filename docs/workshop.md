@@ -5,6 +5,16 @@ permalink: /workshop/
 show_header: false
 ---
 
+# 2025/08/27 ソフトウェアテストの基礎
+
+
+{%- include speakerdeck.html 
+    embed_url="https://speakerdeck.com/player/8fdc7646c0d64067a1763f7c9ecb31cd"
+    url="https://speakerdeck.com/abekem/basics-of-software-testing"
+    title="2025-08-27 社内勉強会 ソフトウェアテストの基礎 / Basics of Software Testing" 
+    current=true -%}
+
+
 # 2025/08/06 Gitを知る頃
 
 
